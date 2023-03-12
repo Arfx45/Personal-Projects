@@ -1,6 +1,4 @@
-# CPS 109 Assignment #1
-# Name: Arnab Nath
-# Student ID: 501165959
+
 # MarkBook Appplication
 ## Simple application that can store marks and for a student and ouputs the final result interm of the total calculated averages##
 
